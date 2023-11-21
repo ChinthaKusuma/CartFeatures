@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.btn12 {
+  background-color: #0b69ff;
+  border: 0px;
+  border-radius: 12px;
+  width: 15vw;
+  color: white;
+  padding: 10px;
+}
+.summary {
+  align-self: flex-end;
+}
